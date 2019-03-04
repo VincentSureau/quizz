@@ -1,0 +1,12 @@
+/* Color for the level badges in quizzes' questions */
+.level-1 {
+ background-color: #28a745;
+}
+
+.level-2 {
+  background-color: #f0ad4e;
+}
+
+.level-3 {
+  background-color: #d9534f;
+}

@@ -1,0 +1,2 @@
+# refuse tout les acces autres que par apache , cad en url directe
+deny from all

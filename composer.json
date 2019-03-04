@@ -1,0 +1,22 @@
+{
+    "name": "mint/evaluation-back-oquiz-vincent-sureau",
+    "require": {
+        "altorouter/altorouter": "^1.2",
+        "league/plates": "^3.3"
+    },
+    "license": "GNU General Public License",
+    "autoload": {
+        "psr-4": {
+            "Quizzoclock\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vincent SUREAU",
+            "email": "vincentsureau5@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^3.4"
+    }
+}
